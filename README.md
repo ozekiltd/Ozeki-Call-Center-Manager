@@ -13,6 +13,7 @@ Core business benefits
 Quick Start Tips
 ====================
 After you have installed Ozeki Call Center Manager, it is easy to connect the software to your PC or notebook. You should install another Ozeki product on your computer as well, such as autodialer or agent dialer software, in order to create some great direct marketing campaigns. The usage of Ozeki Call Center Manager is simple and easy.
+
 1. Initiate one or more call in the call center
 2. Select an agent or a phone line and monitor it (join or listen to the call)
 3. Check real time statistics
